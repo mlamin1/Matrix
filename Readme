@@ -1,0 +1,17 @@
+Muniru Lamin
+COSC320 Lab-4
+02/27/19
+
+My program is made test different types of matrices and the run time of them. I have 3 main files that runs my program. I have a main.cpp where my menu option for the user is and where my timing for my  different operation are also. I have a matrix.h file where all of my functions and operators to set up my matrix and do the operation are. Finally i have a matrix.cpp where all my iplementation of my matrix.h are done. My program asks the user for the type of operation they would like to do, then asks for the size of different matrices, in this process it asks for the correct validatnions of the size of matrices. after that it prints out the final result of the operation, and there is another section where the user has the option to see matrices of different types: Digonal, Upper and Lower, Identity, and Vector matrices.
+
+
+1.I approach the problem by thoroughly analyzing the prompt and understanding what my proff. wanted. I start to solve my problem by creating my main and setting up how my matrices would be made and how the different operation would be done. Then I went ahead and set up my matrix.h file, and implemented my matrix.cpp file. I dealt with one matrix operation at a time so i won't get all errors at once.
+
+
+2.Based on observation of my different run test, it shows that Addition and subtraction operation had a faster rate of finishing around the same time and before the multiplication operation
+
+
+3.The arithmetic time complexity of my implemetations are: addition: Big theta(n^2), subtraction: Big theta(n^2), multiplication: Big theta(n^3).
+
+
+4.My code can be improved by making my formating better. giving less option to user. learning more about my classes so that it looks better and the operations are better.I can also better my code by getting rid of repeatitive things by making a function that can just loop everything and not have the same code being written several times.
